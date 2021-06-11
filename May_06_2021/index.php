@@ -11,7 +11,7 @@
 		</div>
 		<div class="container">
 			<div class="inner_content">
-				
+				echo "Hello world";
 			</div>
 		</div>
 	</div>
